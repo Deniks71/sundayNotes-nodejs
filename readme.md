@@ -1,0 +1,1 @@
+# Projeto para compartilha anotações realizadas nas reuniões de Domingo da Igreja.

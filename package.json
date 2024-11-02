@@ -2,13 +2,18 @@
   "name": "sundaynotes-nodejs",
   "version": "1.0.0",
   "main": "app.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "nodemon server.js"
   },
   "author": "Denilson Nascimento",
   "license": "ISC",
   "description": "",
   "dependencies": {
     "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
   }
 }
